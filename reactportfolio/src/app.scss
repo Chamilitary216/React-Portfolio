@@ -7,6 +7,7 @@
         position: relative;
         top: 70px;
         scroll-snap-type: y mandatory;
+        scroll-behavior: smooth;
         background-color: rgb(228, 162, 150);
         // removes scroll bar
         scrollbar-width: none;
