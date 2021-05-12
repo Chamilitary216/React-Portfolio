@@ -9,7 +9,7 @@
   ## Description:
   Professional portfolio made with ReactJS.
   
-  Link to Heroku Deployed app: https://reactporthard.herokuapp.com//
+  Link to GithubPages Deployed app:  https://chamilitary216.github.io/React-Portfolio/
 
   ### Installation:
   
