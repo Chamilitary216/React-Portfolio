@@ -5,6 +5,7 @@ export default function Menu({ menuOpen, setMenuOpen }) {
     return (
         <div className = {"menu "+ (menuOpen && "active")}>
             <ul>
+                {/* onClick will close menu after section is selected */}
                 <li onClick = {()=>setMenuOpen(false)}>
                     <a href= "#intro">Home</a>
                 </li>
